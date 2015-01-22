@@ -7,3 +7,8 @@ list
 build/
 dist/
 nbproject/
+*.save
+*.exe
+*.o
+*.cbp
+*.depend
